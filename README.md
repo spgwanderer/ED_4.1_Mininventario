@@ -16,3 +16,5 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 
 ## Nota de verificación
 Este cambio se ha realizado desde una copia clonada del repositorio. Prueba IntelliJ IDEA. Cambios realizados para opción B. Versión para hacer PULL
+## Nota temporal
+Pendiente documentar la nueva mejora en Main. Stash
