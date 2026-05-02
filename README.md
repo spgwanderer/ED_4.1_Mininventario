@@ -21,5 +21,3 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 4. La opción de búsqueda informa por pantalla si el producto existe o no.
 5. El proyecto está orientado a practicar estructuras básicas y control de versiones
    con Git y GitHub..
-
-##Prueba para pull request
